@@ -5,4 +5,4 @@ new line is added.
 this line is added by GUI.
 
 
-I have passed my hsc in 2020.
+I have passed my hsc in 2020.(autopass)
