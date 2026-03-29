@@ -6,3 +6,6 @@ this line is added by GUI.
 
 
 I have passed my hsc in 2020.(autopass)
+
+
+i have joined a job as a intern software engineer.
